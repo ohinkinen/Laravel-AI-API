@@ -1,5 +1,9 @@
 # Laravel API for local LLM chatbot
 
+## Overview
+
+This project was created as an example project for fullstack students on how to implement an API using Laravel and Sanctum and how they could integrate AI to their projects.
+
 ## Features
 
 - User authentication (registration, login, logout, profile retrieval)
